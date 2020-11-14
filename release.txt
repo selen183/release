@@ -1,5 +1,0 @@
-main
-main
-rele 1
-rele 2
-
